@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome!!
 
-Hello! My name is Saugat. I am from Institute of Engineering, Paschimanchal Campus, Nepal. Currently persuing Bachelors of Engineering in Electronics communication and information engineering.
+Hello! My name is Saugat. I am from Institute of Engineering, Paschimanchal Campus, Nepal. Currently persuing Bachelors of Engineering in Electronics communication and information technology.
 I am attracted to game development at the moment but am a beginner in programming.
 Just started the journey, will update this profile along the way.
 
